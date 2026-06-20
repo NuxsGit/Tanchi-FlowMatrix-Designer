@@ -1,7 +1,7 @@
 # Tanchi Flow Matrix Designer
 
 ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
+![GitHub Tag](https://img.shields.io/github/v/tag/NuxsGit/Tanchi-FlowMatrix-Designer)
 ![Stack](https://img.shields.io/badge/tech-Tauri%20%7C%20React%20%7C%20TS-orange)
 
 **Tanchi Flow Matrix Designer** is a cutting-edge tool designed for creators, systems engineers, and workflow architects. It enables the conceptualization, modeling, and optimization of data matrices, workflows, or complex movement choreographies through an intuitive and highly visual interface.
