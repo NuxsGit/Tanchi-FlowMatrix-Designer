@@ -36,7 +36,7 @@ Built using **Tauri**, **React**, and **TypeScript** with **Vite** for a lightwe
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/NuxsGit/Tanchi-FlowMatrix-Designer.git](https://github.com/NuxsGit/Tanchi-FlowMatrix-Designer.git)
+   git clone https://github.com/NuxsGit/Tanchi-FlowMatrix-Designer.git
    cd Tanchi-FlowMatrix-Designer
    
 2. **"npm run tauri dev" or "npm run tauri build"**
