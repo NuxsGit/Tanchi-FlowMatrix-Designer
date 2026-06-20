@@ -28,7 +28,7 @@ Built using **Tauri**, **React**, and **TypeScript** with **Vite** for a lightwe
 
 ## 🛠️ Recommended IDE Setup
 
-* [VS Code](https://code.visualstudio.com/)
+* [ZED](https://zed.dev/) --> [Zed Github](https://github.com/zed-industries/zed)
 * [Tauri VS Code Extension](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode)
 * [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
 
