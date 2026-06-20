@@ -8,6 +8,8 @@
 
 Built using **Tauri**, **React**, and **TypeScript** with **Vite** for a lightweight, high-performance desktop experience.
 
+![Capture d'écran du projet](./AssetGithub/ScreenGit.PNG)
+
 ---
 
 ## 🌟 Key Features
