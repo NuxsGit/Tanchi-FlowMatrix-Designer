@@ -1244,7 +1244,7 @@ textarea {
 }
 
 .conflict-row > td {
-    background: rgba(220, 38, 38, 0.05) !important;
+    background: rgba(220, 38, 38, 0.5) !important;
 }
 
 .rejected-row td:not(:last-child) {
